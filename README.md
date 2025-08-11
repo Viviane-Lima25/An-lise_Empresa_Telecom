@@ -1,4 +1,5 @@
 📊 Empresa Telecom
+
 Descrição
 Análise de dados de clientes de uma empresa de telecom para identificar padrões de cancelamento (churn), tempo de permanência e cobranças.
 
